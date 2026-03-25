@@ -1,0 +1,21 @@
+# Runtime & database files
+.swarm/
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
+.claude-flow/neural/
+.claude-flow/metrics/
+.claude/memory.db
+*.log
+*.tmp
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# OS
+Thumbs.db
+.DS_Store
