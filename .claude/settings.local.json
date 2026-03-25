@@ -7,7 +7,24 @@
       "Bash(npx ruflo@latest doctor)",
       "Bash(npx ruflo@latest daemon status)",
       "Bash(npx ruflo@latest daemon start)",
-      "Bash(npx ruflo@latest memory init)"
+      "Bash(npx ruflo@latest memory init)",
+      "Bash(git config:*)",
+      "Bash(gh auth:*)",
+      "Bash(winget install:*)",
+      "Bash(\"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" auth status)",
+      "Bash(where gh:*)",
+      "Read(//c/Users/hamad/OneDrive/Documents/Maverick on Claude/$USERPROFILE/.config/gh/**)",
+      "Read(//c/Users/hamad/OneDrive/Documents/Maverick on Claude/$APPDATA/GitHub CLI/**)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Read(//c/Users/hamad/.config/gh/**)",
+      "Read(//c/Users/hamad/AppData/Roaming/GitHub CLI/**)",
+      "Read(//c/Users/hamad/**)",
+      "Read(//c/Program Files/GitHub CLI/**)",
+      "Read(//c/Program Files \\(x86\\)/GitHub CLI/**)",
+      "Read(//c//**)",
+      "Bash(gh repo:*)",
+      "Bash(\"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" repo rename project-maverick-for-claude-code --repo hamad-yousuff/Maverick-on-Claude --yes)",
+      "Bash(\"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" repo edit --description \"Project Maverick for Claude Code\")"
     ]
   }
 }
